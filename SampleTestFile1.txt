@@ -1,3 +1,5 @@
 This is sampe file 1
 
 Testing reset commit 1.
+
+Git revert change 2.
